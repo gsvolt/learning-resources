@@ -11,7 +11,12 @@
 - [Brilliant](https://brilliant.org)
 - [Mozilla Developer](https://developer.mozilla.org/en-US/)
 - [Pluralsight](https://www.pluralsight.com/)
-- []()
+- [dev.to](https://dev.to/)
+- [channel9](https://channel9.msdn.com)
+- [lynda](https://www.lynda.com)
+- [donetcurry](http://www.dotnetcurry.com/)
+- [codeproject](https://www.codeproject.com/)
+
 
 #### Reference:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)

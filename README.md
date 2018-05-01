@@ -10,12 +10,25 @@
 - [StackOverflow](https://www.stackoverflow.com/)
 - [Brilliant](https://brilliant.org)
 - [Mozilla Developer](https://developer.mozilla.org/en-US/)
+- [Mozilla on Github](https://mozilla.github.io/)
 - [Pluralsight](https://www.pluralsight.com/)
 - [dev.to](https://dev.to/)
 - [channel9](https://channel9.msdn.com)
 - [lynda](https://www.lynda.com)
 - [donetcurry](http://www.dotnetcurry.com/)
 - [codeproject](https://www.codeproject.com/)
+- [Oracle Docs](https://docs.oracle.com/en/)
+- [Google Developers](https://developers.google.com)
+- [Microsoft Virtual Academy](https://mva.microsoft.com/)
+- [learncs.org](http://www.learncs.org/)
+- [usability.gov](https://www.usability.gov/)
+- [Ruby For Beginners](http://ruby-for-beginners.rubymonstas.org/index.html)
+- [cplusplus](http://www.cplusplus.com/)
+- [Free Tutorials](https://www.freetutorials.us/)
+- [Springboard](https://www.springboard.com/)
+- [DriveIT](https://www.driveit.io)
+- [Software Guild](https://www.thesoftwareguild.com/)
+
 
 
 #### Reference:

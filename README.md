@@ -33,6 +33,10 @@
 - [I'm Programmer](https://www.improgrammer.net/)
 - [Code.org](https://www.code.org)
 - [Codecademy](https://www.codecademy.com/)
+- [gamedev.net](https://www.gamedev.net/)
+- [tutsplus](https://tutsplus.com)
+- [InventWithPython](http://inventwithpython.com/)
+
 
 
 

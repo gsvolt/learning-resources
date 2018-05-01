@@ -20,6 +20,7 @@
 - [Oracle Docs](https://docs.oracle.com/en/)
 - [Google Developers](https://developers.google.com)
 - [Microsoft Virtual Academy](https://mva.microsoft.com/)
+- [MSDN](https://msdn.microsoft.com/en-us)
 - [learncs.org](http://www.learncs.org/)
 - [usability.gov](https://www.usability.gov/)
 - [Ruby For Beginners](http://ruby-for-beginners.rubymonstas.org/index.html)
@@ -28,6 +29,10 @@
 - [Springboard](https://www.springboard.com/)
 - [DriveIT](https://www.driveit.io)
 - [Software Guild](https://www.thesoftwareguild.com/)
+- [FreeCodeCamp](https://medium.freecodecamp.org/)
+- [I'm Programmer](https://www.improgrammer.net/)
+- [Code.org](https://www.code.org)
+- [Codecademy](https://www.codecademy.com/)
 
 
 

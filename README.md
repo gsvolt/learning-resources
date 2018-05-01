@@ -1,3 +1,9 @@
+# learning-resources
+
+- [mooc.fi](http://mooc.fi/english.html)
+- [coursera.org](https://www.coursera.org)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/gsvolt/learning-resources/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

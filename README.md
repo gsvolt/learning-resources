@@ -45,6 +45,9 @@
 - [Ubuntu Developer](https://developer.ubuntu.com/)
 - [RedHat Developers](https://developers.redhat.com/)
 - [Amazon Developer](https://developer.amazon.com/)
+- [Unity3D Learn](https://unity3d.com/learn)
+- [MITs SICP](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
+- [Martin Fowlers Articles](https://martinfowler.com/tags/)
 
 #### Reference:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)

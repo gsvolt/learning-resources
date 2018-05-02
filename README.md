@@ -44,6 +44,7 @@
 - [OWASP](https://www.owasp.org)
 - [Ubuntu Developer](https://developer.ubuntu.com/)
 - [RedHat Developers](https://developers.redhat.com/)
+- [Amazon Developer](https://developer.amazon.com/)
 
 #### Reference:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)

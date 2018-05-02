@@ -6,6 +6,7 @@
 - [W3Schools](https://www.w3schools.com/)
 - [Cybrary](https://www.cybrary.it/)
 - [Linux Journey](https://linuxjourney.com/)
+- [LinuxAcademy](https://linuxacademy.com/)
 - [Hacker Rank](https://www.hackerrank.com/)
 - [StackOverflow](https://www.stackoverflow.com/)
 - [Brilliant](https://brilliant.org)

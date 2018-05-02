@@ -1,5 +1,8 @@
 # learning-resources
 
+> This is an attempt to collect learning resources on the web
+> Message, email me additions or even better, submit a PR and I'll merge edits in ;)
+
 - [mooc.fi](http://mooc.fi/english.html)
 - [coursera.org](https://www.coursera.org)
 - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
@@ -16,7 +19,7 @@
 - [dev.to](https://dev.to/)
 - [channel9](https://channel9.msdn.com)
 - [lynda](https://www.lynda.com)
-- [donetcurry](http://www.dotnetcurry.com/)
+- [dotnetcurry](http://www.dotnetcurry.com/)
 - [codeproject](https://www.codeproject.com/)
 - [Oracle Docs](https://docs.oracle.com/en/)
 - [Google Developers](https://developers.google.com)
@@ -37,8 +40,7 @@
 - [gamedev.net](https://www.gamedev.net/)
 - [tutsplus](https://tutsplus.com)
 - [InventWithPython](http://inventwithpython.com/)
-
-
+- [AzureOverview](https://azure-overview.com/)
 
 
 #### Reference:

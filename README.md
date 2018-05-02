@@ -1,6 +1,6 @@
 # learning-resources
 
-> This is an attempt to collect learning resources on the web
+> This is an attempt to collect learning resources on the web. 
 > Message, email me additions or even better, submit a PR and I'll merge edits in ;)
 
 - [mooc.fi](http://mooc.fi/english.html)

@@ -41,7 +41,9 @@
 - [tutsplus](https://tutsplus.com)
 - [InventWithPython](http://inventwithpython.com/)
 - [AzureOverview](https://azure-overview.com/)
-
+- [OWASP](https://www.owasp.org)
+- [Ubuntu Developer](https://developer.ubuntu.com/)
+- [RedHat Developers](https://developers.redhat.com/)
 
 #### Reference:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)

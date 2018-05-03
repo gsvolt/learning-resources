@@ -49,6 +49,7 @@
 - [MITs SICP](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 - [Martin Fowlers Articles](https://martinfowler.com/tags/)
 - [Software Architecture Radio](http://www.softwarearchitecturerad.io/)
+- [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
 
 #### Reference:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)

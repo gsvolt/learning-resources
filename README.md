@@ -55,6 +55,8 @@
 - [LearnStartup](https://academy.learnstartup.net/)
 - [HackerNoon](https://hackernoon.com/)
 - [Scotch](https://scotch.io/)
+- [ExploringJS](http://exploringjs.com/)
+- [TutorialsForCoders](https://flaviocopes.com/)
 
 #### Reference:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)

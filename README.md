@@ -57,6 +57,7 @@
 - [Scotch](https://scotch.io/)
 - [ExploringJS](http://exploringjs.com/)
 - [TutorialsForCoders](https://flaviocopes.com/)
+- [Pragmatic Studio Tutorials](https://pragmaticstudio.com/tutorials)
 
 #### Reference:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)

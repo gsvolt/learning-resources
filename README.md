@@ -59,6 +59,9 @@
 - [TutorialsForCoders](https://flaviocopes.com/)
 - [Pragmatic Studio Tutorials](https://pragmaticstudio.com/tutorials)
 - [Pragmatic Bookshelf](https://pragprog.com/)
+- [Packt](https://www.packtpub.com/)
+- [O'Reilly](https://www.oreilly.com/)
+- 
 
 #### Reference:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)

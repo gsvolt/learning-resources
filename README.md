@@ -62,6 +62,7 @@
 - [Packt](https://www.packtpub.com/)
 - [O'Reilly](https://www.oreilly.com/)
 - [Design Systems](https://www.designsystems.com/)
+- [Awwwards:Websites](https://www.awwwards.com/websites/)
 
 #### Reference:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)

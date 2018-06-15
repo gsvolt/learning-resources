@@ -63,6 +63,8 @@
 - [O'Reilly](https://www.oreilly.com/)
 - [Design Systems](https://www.designsystems.com/)
 - [Awwwards:Websites](https://www.awwwards.com/websites/)
+- [LinOxide](https://linoxide.com/)
+- [PlayWithDocker](https://training.play-with-docker.com)
 
 #### Reference:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)

@@ -76,6 +76,7 @@
 - [NDC Conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q)
 - [InfoQ Presentations](https://www.infoq.com/presentations)
 - [Confreaks](https://www.youtube.com/channel/UCWnPjmqvljcafA0z2U1fwKQ)
+- [DanNorth&Associates](https://dannorth.net/talks/)
 
 #### Reference:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)

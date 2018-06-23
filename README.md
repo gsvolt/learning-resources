@@ -77,6 +77,7 @@
 - [InfoQ Presentations](https://www.infoq.com/presentations)
 - [Confreaks](https://www.youtube.com/channel/UCWnPjmqvljcafA0z2U1fwKQ)
 - [DanNorth&Associates](https://dannorth.net/talks/)
+- [Egghead Community Resources](https://egghead.io/community/resources)
 
 #### Reference:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)

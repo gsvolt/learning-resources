@@ -68,6 +68,12 @@
 - [Gatsby](https://www.gatsbyjs.org)
 - [DZone](https://www.dzone.com)
 
+#### Conferences Videos:
+
+- [Roots Conf](https://vimeo.com/rootsconf)
+- [Codemash](https://www.youtube.com/channel/UC8uJomag49kWDrchQbdHahQ)
+- [StirTrek](https://www.youtube.com/channel/UCdflS38aeqXfuCTbM2I2S5Q)
+
 
 #### Reference:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)

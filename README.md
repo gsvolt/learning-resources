@@ -66,6 +66,8 @@
 - [LinOxide](https://linoxide.com/)
 - [PlayWithDocker](https://training.play-with-docker.com)
 - [Gatsby](https://www.gatsbyjs.org)
+- [DZone](https://www.dzone.com)
+
 
 #### Reference:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)

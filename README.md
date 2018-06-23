@@ -68,7 +68,7 @@
 - [Gatsby](https://www.gatsbyjs.org)
 - [DZone](https://www.dzone.com)
 
-#### Conferences Videos:
+#### Conference Videos:
 
 - [Roots Conf](https://vimeo.com/rootsconf)
 - [Codemash](https://www.youtube.com/channel/UC8uJomag49kWDrchQbdHahQ)

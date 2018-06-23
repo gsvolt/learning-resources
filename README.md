@@ -73,6 +73,7 @@
 - [Roots Conf](https://vimeo.com/rootsconf)
 - [Codemash](https://www.youtube.com/channel/UC8uJomag49kWDrchQbdHahQ)
 - [StirTrek](https://www.youtube.com/channel/UCdflS38aeqXfuCTbM2I2S5Q)
+- [NDC Conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q)
 
 
 #### Reference:

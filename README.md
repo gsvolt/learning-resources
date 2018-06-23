@@ -74,7 +74,7 @@
 - [Codemash](https://www.youtube.com/channel/UC8uJomag49kWDrchQbdHahQ)
 - [StirTrek](https://www.youtube.com/channel/UCdflS38aeqXfuCTbM2I2S5Q)
 - [NDC Conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q)
-
+- [InfoQ Presentations](https://www.infoq.com/presentations)
 
 #### Reference:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)

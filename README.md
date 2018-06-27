@@ -67,6 +67,7 @@
 - [PlayWithDocker](https://training.play-with-docker.com)
 - [Gatsby](https://www.gatsbyjs.org)
 - [DZone](https://www.dzone.com)
+- [AISchool](https://aischool.microsoft.com)
 
 #### Conference Videos:
 

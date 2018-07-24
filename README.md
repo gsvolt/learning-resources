@@ -68,6 +68,7 @@
 - [Gatsby](https://www.gatsbyjs.org)
 - [DZone](https://www.dzone.com)
 - [AISchool](https://aischool.microsoft.com)
+- [Google Site Reliability Engineering book](https://landing.google.com/sre/book/index.html)
 
 #### Conference Videos:
 

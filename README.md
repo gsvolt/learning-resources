@@ -80,6 +80,7 @@
 - [Confreaks](https://www.youtube.com/channel/UCWnPjmqvljcafA0z2U1fwKQ)
 - [DanNorth&Associates](https://dannorth.net/talks/)
 - [Egghead Community Resources](https://egghead.io/community/resources)
+- [JSConf](https://www.youtube.com/user/jsconfeu/)
 
 #### Reference:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)

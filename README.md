@@ -69,6 +69,8 @@
 - [DZone](https://www.dzone.com)
 - [AISchool](https://aischool.microsoft.com)
 - [Google Site Reliability Engineering book](https://landing.google.com/sre/book/index.html)
+- [Javascript January](https://www.javascriptjanuary.com/)
+- [SysAdvent](http://sysadvent.blogspot.com/)
 
 #### Conference Videos:
 

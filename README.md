@@ -74,6 +74,7 @@
 
 #### Conference Videos:
 
+- [PyOhio](https://www.youtube.com/channel/UCYqdrfvhGxNW3vXebypqXoQ)
 - [Roots Conf](https://vimeo.com/rootsconf)
 - [Codemash](https://www.youtube.com/channel/UC8uJomag49kWDrchQbdHahQ)
 - [StirTrek](https://www.youtube.com/channel/UCdflS38aeqXfuCTbM2I2S5Q)

@@ -71,6 +71,7 @@
 - [Google Site Reliability Engineering book](https://landing.google.com/sre/book/index.html)
 - [Javascript January](https://www.javascriptjanuary.com/)
 - [SysAdvent](http://sysadvent.blogspot.com/)
+- [Ruby Guides](http://www.rubyguides.com/)
 
 #### Conference Videos:
 

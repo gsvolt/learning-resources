@@ -72,6 +72,7 @@
 - [Javascript January](https://www.javascriptjanuary.com/)
 - [SysAdvent](http://sysadvent.blogspot.com/)
 - [Ruby Guides](http://www.rubyguides.com/)
+- [SubMain Blog](https://blog.submain.com/)
 
 #### Conference Videos:
 

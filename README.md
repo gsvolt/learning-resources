@@ -73,6 +73,7 @@
 - [SysAdvent](http://sysadvent.blogspot.com/)
 - [Ruby Guides](http://www.rubyguides.com/)
 - [SubMain Blog](https://blog.submain.com/)
+- [Upcase by thoughtbot](https://thoughtbot.com/upcase/)
 
 #### Conference Videos:
 

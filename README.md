@@ -88,6 +88,10 @@
 - [Egghead Community Resources](https://egghead.io/community/resources)
 - [JSConf](https://www.youtube.com/user/jsconfeu/)
 
+#### Audio only:
+
+- [Screaming in the cloud](https://www.screaminginthecloud.com)
+
 #### Reference:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Jekyll](https://jekyllrb.com/)

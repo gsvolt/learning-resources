@@ -74,6 +74,7 @@
 - [Ruby Guides](http://www.rubyguides.com/)
 - [SubMain Blog](https://blog.submain.com/)
 - [Upcase by thoughtbot](https://thoughtbot.com/upcase/)
+- [PythonTutor](http://pythontutor.com/)
 
 #### Conference Videos:
 

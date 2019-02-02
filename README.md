@@ -75,6 +75,8 @@
 - [SubMain Blog](https://blog.submain.com/)
 - [Upcase by thoughtbot](https://thoughtbot.com/upcase/)
 - [PythonTutor](http://pythontutor.com/)
+- [CodingBat](https://codingbat.com/python/)
+- [ProjectEuler](https://projecteuler.net/)
 
 #### Conference Videos:
 

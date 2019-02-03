@@ -77,6 +77,7 @@
 - [PythonTutor](http://pythontutor.com/)
 - [CodingBat](https://codingbat.com/python/)
 - [ProjectEuler](https://projecteuler.net/)
+- [ITNEXT](https://www.itnext.io/)
 
 #### Conference Videos:
 

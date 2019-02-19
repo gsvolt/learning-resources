@@ -96,6 +96,7 @@
 #### Audio only:
 
 - [Screaming in the cloud](https://www.screaminginthecloud.com)
+- [Real World DevOps](https://www.realworlddevops.com)
 
 #### Reference:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)

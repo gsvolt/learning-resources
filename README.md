@@ -82,6 +82,7 @@
 - [Postgres Guide](http://postgresguide.com/)
 - [DynamoDB Guide](https://www.dynamodbguide.com/)
 - [Idea To Startup - Resources](https://ideatostartup.org/resources)
+- [Learn X in Y Minutes](https://www.learnxinyminutes.com/)
 
 #### Conference Videos:
 

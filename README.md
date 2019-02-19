@@ -81,6 +81,7 @@
 - [Tutpad](https://www.tutpad.com/)
 - [Postgres Guide](http://postgresguide.com/)
 - [DynamoDB Guide](https://www.dynamodbguide.com/)
+- [Idea To Startup - Resources](https://ideatostartup.org/resources)
 
 #### Conference Videos:
 

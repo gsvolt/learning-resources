@@ -79,6 +79,8 @@
 - [ProjectEuler](https://projecteuler.net/)
 - [ITNEXT](https://www.itnext.io/)
 - [Tutpad](https://www.tutpad.com/)
+- [Postgres Guide](http://postgresguide.com/)
+- [DynamoDB Guide](https://www.dynamodbguide.com/)
 
 #### Conference Videos:
 

@@ -84,6 +84,7 @@
 - [Idea To Startup - Resources](https://ideatostartup.org/resources)
 - [Learn X in Y Minutes](https://www.learnxinyminutes.com/)
 - [Obey The Testing Goat](https://www.obeythetestinggoat.com/)
+- [Trademarks and Symbols](http://www.trademarksandsymbols.com/)
 
 #### Conference Videos:
 

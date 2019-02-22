@@ -85,6 +85,9 @@
 - [Learn X in Y Minutes](https://www.learnxinyminutes.com/)
 - [Obey The Testing Goat](https://www.obeythetestinggoat.com/)
 - [Trademarks and Symbols](http://www.trademarksandsymbols.com/)
+- [base DS (Distributed Systems](https://medium.com/baseds)
+- [base CS (Computer Science)](https://medium.com/basecs)
+- [Devopedia](https://devopedia.org/)
 
 #### Conference Videos:
 

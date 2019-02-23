@@ -88,6 +88,7 @@
 - [base DS (Distributed Systems](https://medium.com/baseds)
 - [base CS (Computer Science)](https://medium.com/basecs)
 - [Devopedia](https://devopedia.org/)
+- [TheNewStack-ebooks](https://thenewstack.io/ebooks/)
 
 #### Conference Videos:
 

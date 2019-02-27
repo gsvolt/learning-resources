@@ -57,6 +57,7 @@
 - [Scotch](https://scotch.io/)
 - [ExploringJS](http://exploringjs.com/)
 - [TutorialsForCoders](https://flaviocopes.com/)
+- [BitsOfCode](https://bitsofco.de/)
 - [Pragmatic Studio Tutorials](https://pragmaticstudio.com/tutorials)
 - [Pragmatic Bookshelf](https://pragprog.com/)
 - [Packt](https://www.packtpub.com/)

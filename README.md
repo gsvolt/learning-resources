@@ -92,6 +92,7 @@
 - [Devopedia](https://devopedia.org/)
 - [TheNewStack-ebooks](https://thenewstack.io/ebooks/)
 - [VSCode-PythonExtension](https://donjayamanne.github.io/pythonVSCodeDocs/docs/)
+- [dbdiagram](https://dbdiagram.io/)
 
 #### Conference Videos:
 

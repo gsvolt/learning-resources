@@ -91,6 +91,7 @@
 - [base CS (Computer Science)](https://medium.com/basecs)
 - [Devopedia](https://devopedia.org/)
 - [TheNewStack-ebooks](https://thenewstack.io/ebooks/)
+- [VSCode-PythonExtension](https://donjayamanne.github.io/pythonVSCodeDocs/docs/)
 
 #### Conference Videos:
 

@@ -93,6 +93,9 @@
 - [TheNewStack-ebooks](https://thenewstack.io/ebooks/)
 - [VSCode-PythonExtension](https://donjayamanne.github.io/pythonVSCodeDocs/docs/)
 - [dbdiagram](https://dbdiagram.io/)
+- [TheArtOfCommandLine](https://github.com/jlevy/the-art-of-command-line)
+- [LinuxHardeningChecklist](https://github.com/trimstray/linux-hardening-checklist)
+- [TheBookOfSecretKnowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 #### Conference Videos:
 

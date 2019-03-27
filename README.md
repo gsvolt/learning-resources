@@ -96,6 +96,7 @@
 - [TheArtOfCommandLine](https://github.com/jlevy/the-art-of-command-line)
 - [LinuxHardeningChecklist](https://github.com/trimstray/linux-hardening-checklist)
 - [TheBookOfSecretKnowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [ArsenalOfAWSSecurityTools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 
 #### Conference Videos:
 

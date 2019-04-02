@@ -99,6 +99,7 @@
 - [ArsenalOfAWSSecurityTools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 - [AwesomeDesignTools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 - [AwesomePython](https://awesome-python.com)
+- [PublicAPIForPublicAPIs](https://github.com/davemachado/public-api)
 
 #### Conference Videos:
 

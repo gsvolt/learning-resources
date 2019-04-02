@@ -97,6 +97,7 @@
 - [LinuxHardeningChecklist](https://github.com/trimstray/linux-hardening-checklist)
 - [TheBookOfSecretKnowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [ArsenalOfAWSSecurityTools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
+- [AwesomeDesignTools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 
 #### Conference Videos:
 

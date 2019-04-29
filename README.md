@@ -101,6 +101,7 @@
 - [AwesomeDesignTools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 - [AwesomePython](https://awesome-python.com)
 - [PublicAPIForPublicAPIs](https://github.com/davemachado/public-api)
+- [Books by FrontEnd Masters](https://frontendmasters.com/books/)
 
 #### Conference Videos:
 

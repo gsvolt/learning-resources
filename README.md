@@ -102,6 +102,7 @@
 - [AwesomePython](https://awesome-python.com)
 - [PublicAPIForPublicAPIs](https://github.com/davemachado/public-api)
 - [Books by FrontEnd Masters](https://frontendmasters.com/books/)
+- [YourLanguageSucks](https://wiki.theory.org/index.php/YourLanguageSucks)
 
 #### Conference Videos:
 

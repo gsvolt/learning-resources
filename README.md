@@ -124,6 +124,11 @@
 - [Screaming in the cloud](https://www.screaminginthecloud.com)
 - [Real World DevOps](https://www.realworlddevops.com)
 
+#### Books:
+
+- [Microservices AntiPatterns and Pitfalls - Mark Richards](https://www.oreilly.com/library/view/microservices-antipatterns-and/9781492042716/)
+
+
 #### Reference:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Jekyll](https://jekyllrb.com/)

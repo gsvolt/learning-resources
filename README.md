@@ -105,6 +105,7 @@
 - [YourLanguageSucks](https://wiki.theory.org/index.php/YourLanguageSucks)
 - [ThoughtBot Books](https://books.thoughtbot.com/)
 - [Increment](https://www.increment.com/)
+- [bash2zsh](http://www.bash2zsh.com/)
 
 #### Conference Videos:
 

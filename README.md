@@ -23,6 +23,7 @@
 - [codeproject](https://www.codeproject.com/)
 - [Oracle Docs](https://docs.oracle.com/en/)
 - [Google Developers](https://developers.google.com)
+- [TechDevGuide - With Google](https://techdevguide.withgoogle.com/)
 - [Microsoft Virtual Academy](https://mva.microsoft.com/)
 - [MSDN](https://msdn.microsoft.com/en-us)
 - [learncs.org](http://www.learncs.org/)

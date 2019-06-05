@@ -107,6 +107,7 @@
 - [Increment](https://www.increment.com/)
 - [bash2zsh](http://www.bash2zsh.com/)
 - [DevIQ](https://www.deviq.com/)
+- [Test Automation University](https://testautomationu.applitools.com/)
 
 #### Conference Videos:
 

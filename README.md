@@ -109,6 +109,7 @@
 - [bash2zsh](http://www.bash2zsh.com/)
 - [DevIQ](https://www.deviq.com/)
 - [Test Automation University](https://testautomationu.applitools.com/)
+- [Kubernetes by Example](http://kubernetesbyexample.com/)
 
 #### Conference Videos:
 

@@ -110,6 +110,7 @@
 - [DevIQ](https://www.deviq.com/)
 - [Test Automation University](https://testautomationu.applitools.com/)
 - [Kubernetes by Example](http://kubernetesbyexample.com/)
+- [Software Architecture Patterns](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/)
 
 #### Conference Videos:
 

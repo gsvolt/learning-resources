@@ -110,6 +110,7 @@
 - [DevIQ](https://www.deviq.com/)
 - [Test Automation University](https://testautomationu.applitools.com/)
 - [Kubernetes by Example](http://kubernetesbyexample.com/)
+- [AWS Geek](https://www.awsgeek.com/)
 
 #### Conference Videos:
 

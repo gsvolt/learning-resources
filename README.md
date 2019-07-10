@@ -113,6 +113,7 @@
 - [AWS Geek](https://www.awsgeek.com/)
 - [Software Architecture Patterns](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/)
 - [Design Patterns](https://www.dofactory.com/net/design-patterns)
+- [Last Week in AWS](https://www.lastweekinaws.com/)
 
 #### Conference Videos:
 

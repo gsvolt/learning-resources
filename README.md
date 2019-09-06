@@ -115,6 +115,7 @@
 - [Design Patterns](https://www.dofactory.com/net/design-patterns)
 - [Last Week in AWS](https://www.lastweekinaws.com/)
 - [Hacker-Tools](https://hacker-tools.github.io/)
+- [Google Engineering Practices Documentation](https://github.com/google/eng-practices)
 
 #### Conference Videos:
 

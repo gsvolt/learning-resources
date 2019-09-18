@@ -116,6 +116,7 @@
 - [Last Week in AWS](https://www.lastweekinaws.com/)
 - [Hacker-Tools](https://hacker-tools.github.io/)
 - [Google Engineering Practices Documentation](https://github.com/google/eng-practices)
+- [Programming Projects for Advanced Beginners](https://robertheaton.com/2018/12/08/programming-projects-for-advanced-beginners/)
 
 #### Conference Videos:
 

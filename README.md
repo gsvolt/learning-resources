@@ -119,6 +119,7 @@
 - [Programming Projects for Advanced Beginners](https://robertheaton.com/2018/12/08/programming-projects-for-advanced-beginners/)
 - [Programming Idioms](https://www.programming-idioms.org/)
 - [DevOps-Exercises](https://github.com/bregman-arie/devops-exercises)
+- [DavidRumsey Map Collection](https://www.davidrumsey.com/)
 
 #### Conference Videos:
 

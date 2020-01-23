@@ -126,6 +126,7 @@
 - [FOSDEM](https://video.fosdem.org)
 - [PyOhio](https://www.youtube.com/channel/UCYqdrfvhGxNW3vXebypqXoQ)
 - [Roots Conf](https://vimeo.com/rootsconf)
+- [RustBeltRust Conf](https://www.youtube.com/channel/UCptxtVyJkQAJZcFwBbIDZcg)
 - [Codemash](https://www.youtube.com/channel/UC8uJomag49kWDrchQbdHahQ)
 - [StirTrek](https://www.youtube.com/channel/UCdflS38aeqXfuCTbM2I2S5Q)
 - [NDC Conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q)

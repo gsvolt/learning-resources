@@ -123,6 +123,7 @@
 
 #### Conference Videos:
 
+- [FOSDEM](https://video.fosdem.org)
 - [PyOhio](https://www.youtube.com/channel/UCYqdrfvhGxNW3vXebypqXoQ)
 - [Roots Conf](https://vimeo.com/rootsconf)
 - [Codemash](https://www.youtube.com/channel/UC8uJomag49kWDrchQbdHahQ)

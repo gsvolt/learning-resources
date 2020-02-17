@@ -120,6 +120,7 @@
 - [Programming Idioms](https://www.programming-idioms.org/)
 - [DevOps-Exercises](https://github.com/bregman-arie/devops-exercises)
 - [DavidRumsey Map Collection](https://www.davidrumsey.com/)
+- [TechLadder](http://www.techladder.io/)
 
 #### Conference Videos:
 

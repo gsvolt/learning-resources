@@ -121,6 +121,7 @@
 - [DevOps-Exercises](https://github.com/bregman-arie/devops-exercises)
 - [DavidRumsey Map Collection](https://www.davidrumsey.com/)
 - [TechLadder](http://www.techladder.io/)
+- [Modern CSS Solutions](https://moderncss.dev/)
 
 #### Conference Videos:
 

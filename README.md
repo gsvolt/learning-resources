@@ -123,6 +123,7 @@
 - [TechLadder](http://www.techladder.io/)
 - [Modern CSS Solutions](https://moderncss.dev/)
 - [LeetCode](https://www,leetcode.com/)
+- [97 Things](https://github.com/97-things)
 
 #### Conference Videos:
 

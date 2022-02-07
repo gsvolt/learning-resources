@@ -124,6 +124,7 @@
 - [Modern CSS Solutions](https://moderncss.dev/)
 - [LeetCode](https://www,leetcode.com/)
 - [97 Things](https://github.com/97-things)
+- [FullStackOpen](https://fullstackopen.com)
 
 #### Conference Videos:
 

@@ -125,6 +125,7 @@
 - [LeetCode](https://www,leetcode.com/)
 - [97 Things](https://github.com/97-things)
 - [FullStackOpen](https://fullstackopen.com)
+- [FrontendMentor](https://frontendmentor.io)
 
 #### Conference Videos:
 

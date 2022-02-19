@@ -151,6 +151,7 @@
 
 - [Microservices AntiPatterns and Pitfalls - Mark Richards](https://www.oreilly.com/library/view/microservices-antipatterns-and/9781492042716/)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
+- [SRE Google](https://sre.google/)
 
 #### Hands-on:
 

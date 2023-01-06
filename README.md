@@ -158,6 +158,26 @@
 - [CodeWars](https://codewars.com/)
 
 
+#### Variety of Job Boards
+
+- [51job](https://www.51job.com/)
+- [CircaWorks](https://circaworks.com/); [LocalJob Network](https://jobs.localjobnetwork.com/)
+- [Diversity Job Board](https://www.diversityjobs.com/)
+- [Glassdoor](https://www.glassdoor.com/index.htm)
+- [Handshake](https://joinhandshake.com/)
+- [Indeed](https://indeed.com/)
+- [Jobs.CZ](https://www.jobs.cz/)
+- [Jobstreet SG](https://www.jobstreet.com/)
+- [Liepin](https://www.liepin.com/)
+- [Moseeker](https://www.moseeker.com/jobs?_t=home)
+- [National Black MBA Association-NBMBAA](https://nbmbaa.org/)
+- [National Society of Black Engineers-NSBE](https://www.nsbe.org/)
+- [Naukri](https://www.naukri.com/)
+- [Pracuj.pl](https://www.pracuj.pl/)
+- [Society of Hispanic Professional Engineers-SHPE](https://shpe.org/)
+- [Society of Women Engineers - SWE](https://swe.org/)
+
+
 #### Reference:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Jekyll](https://jekyllrb.com/)
